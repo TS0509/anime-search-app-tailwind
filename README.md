@@ -29,3 +29,5 @@ Use Vercel or Netlify. Build command:
 npm run build
 ```
 Output directory: `dist`
+
+Live Demo 👉 [https://anime-search-app-tailwind.vercel.app](https://anime-search-app-tailwind.vercel.app)
